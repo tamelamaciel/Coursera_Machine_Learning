@@ -1,3 +1,4 @@
 *.ipynb_checkpoints
 ex1.pdf
 ex1/
+*.pages
